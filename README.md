@@ -7,8 +7,9 @@ Have questions or need help? ✉️ Email me: ppaupallares@gmail.com
 - AF: for Ahmed Rarag (Co-founder)
 - BC: for Berkan Çokdeğerli (Co-founder)
 
-### Quick start (most people only need this)
+### Quick start
 
+- First Download the zip file: Go to the Code green bottom above and "Download Zip".
 - Pick the right file (AF or BC) above.
 - Open the `.html` file in your web browser.
 - Select all (Ctrl/Cmd+A) and copy (Ctrl/Cmd+C).
